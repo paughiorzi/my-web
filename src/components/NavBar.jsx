@@ -9,7 +9,7 @@ let NavBar=({arrayDeLink})=> {
       <div>
         <Navbar bg="light" expand="lg" className="NavB">
           <Container>
-            <Navbar.Brand href="#home" className="NavB"> / P G / </Navbar.Brand>
+            <Navbar.Brand href="/" className="NavB"> / P G / </Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav">
               <Nav className="me-auto">
